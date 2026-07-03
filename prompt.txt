@@ -1,0 +1,9 @@
+I want to make a project. This is my project name: Gemini AI Chatbot. The technologies used are Python, Google Gemini API, and Google Colab (later VS Code if needed). Here is the brief description of the project: The chatbot accepts a user's query as input, sends it to the Google Gemini API, and displays the AI-generated response. The chatbot should continue interacting with the user until they type "exit" to end the conversation. The project should include basic error handling for invalid API keys or network issues and should have a clean and simple implementation without unnecessary complexity or conversation history.
+
+The outcomes of the project are:
+
+Accept user queries continuously and generate accurate responses using the Gemini API.
+Handle invalid API keys and API errors gracefully without crashing.
+Create a clean, modular, and reusable codebase that can later be extended with features such as conversation memory, a Streamlit web interface, or support for multiple LLM providers.
+
+Remember, you have to guide me from scratch throughout the making of this project, step by step. Act as an experienced software developer and mentor. I'm using VS Code as my development environment. If this project requires anything else, such as creating a virtual environment, installing Python packages, configuring API keys, using Git and GitHub, or any additional tools or libraries, let me know before we proceed. I want to understand every concept rather than simply copying code, so explain why we are doing each step before writing the code. Build the project gradually, ensuring each step works before moving on to the next. Also follow software development best practices, including proper project structure, modular code organization, and version control, so that by the end I have a professional project suitable for my coursework and GitHub portfolio.
